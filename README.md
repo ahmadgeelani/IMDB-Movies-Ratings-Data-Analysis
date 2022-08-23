@@ -16,7 +16,8 @@ Dataset Description
 
 We will be using movie_metadata.csv Dataset attached.
 
-Within this file you will find the following fields:
+Link for the Tableau public
+https://public.tableau.com/views/TableauProject_16609972579270/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 
