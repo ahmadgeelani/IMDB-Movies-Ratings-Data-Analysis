@@ -12,6 +12,13 @@ Features:
 
 •	Created a dynamic dashboard with filters and parameters.
 
+Dataset Description
+
+We will be using movie_metadata.csv Dataset attached.
+
+Within this file you will find the following fields:
+
+
 
 Tech Stacks: 
 
